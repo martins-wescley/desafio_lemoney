@@ -7,4 +7,4 @@ install:
 
 script:
   - msbuild /p:Configuration=Release Desafio_lemoney.sln
-  - mono ./testrunner/NUnit.ConsoleRunner.3.9.0/tools/nunit3-console.exe ./desafio_lemoney/bin/Release/Desafio_lemoney.dll
+  - mono ./testrunner/NUnit.ConsoleRunner.3.9.0/tools/nunit3-console.exe ./bin/Release/Desafio_lemoney.dll
