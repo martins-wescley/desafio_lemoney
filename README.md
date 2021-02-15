@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/martins-wescley/desafio_lemoney.svg?branch=main&status=passed)](https://github.com/martins-wescley/desafio_lemoney)
 
-Automatizado a busca por produtos no site http://automationpractice.com/index.php
+Projeto com a finalidade de testar de forma automática os cenários de busca de produtos do site http://automationpractice.com/index.php
 
 ## Browser Support
 
