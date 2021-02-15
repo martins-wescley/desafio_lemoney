@@ -1,4 +1,4 @@
-# Desafio Lemoney(href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.linkedin.com%2Fcompany%2Flemoneyway&psig=AOvVaw3ckj6NqD0iINfufBHL0W_l&ust=1613505375841000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDam5TW7O4CFQAAAAAdAAAAABAD)
+# Desafio Lemoney(https://media-exp1.licdn.com/dms/image/C4D0BAQFSfH1LDDCC3w/company-logo_200_200/0?e=2159024400&v=beta&t=Btc6QNnG9aSSYJztFraz8VybdvWhRO9tLyrpBvdMH7U)
 
 [![Build Status](https://travis-ci.org/martins-wescley/desafio_lemoney.svg?branch=main&status=passed)](https://github.com/martins-wescley/desafio_lemoney)
 
