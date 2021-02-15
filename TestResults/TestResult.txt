@@ -1,0 +1,31 @@
+Dado que o usuário acesse a aplicação
+-> done: AutomationPracticeSteps.DadoQueOUsuarioAcesseAAplicacao() (8,4s)
+Quando o usuário pesquisar pelo item 'T-shirt'
+-> done: AutomationPracticeSteps.QuandoOUsuarioPesquisarPeloItem("T-shirt") (6,1s)
+E selecionar o item pesquisado
+-> done: AutomationPracticeSteps.QuandoSelecionarOItemPesquisado() (3,9s)
+E adicionar o item no carrinho de compras
+-> done: AutomationPracticeSteps.QuandoAdicionarOItemNoCarrinhoDeCompras() (0,1s)
+Então deverá ser exibido um modal com a mensagem 'Product successfully added to your shopping cart'
+-> done: AutomationPracticeSteps.EntaoDeveraSerExibidoUmModalComAMensagem("Product successfu...") (1,6s)
+E deverá ser exibido os dados do produto selecionado
+-> done: AutomationPracticeSteps.EntaoDeveraSerExibidoOsDadosDoProdutoSelecionado() (0,1s)
+Dado que o usuário acesse a aplicação
+-> done: AutomationPracticeSteps.DadoQueOUsuarioAcesseAAplicacao() (12,9s)
+Quando o usuário pesquisar pelo item 'Blouse'
+-> done: AutomationPracticeSteps.QuandoOUsuarioPesquisarPeloItem("Blouse") (3,1s)
+E selecionar o item pesquisado
+-> done: AutomationPracticeSteps.QuandoSelecionarOItemPesquisado() (3,6s)
+E adicionar o item no carrinho de compras
+-> done: AutomationPracticeSteps.QuandoAdicionarOItemNoCarrinhoDeCompras() (0,1s)
+Então deverá ser exibido um modal com a mensagem 'Product successfully added to your shopping cart'
+-> done: AutomationPracticeSteps.EntaoDeveraSerExibidoUmModalComAMensagem("Product successfu...") (1,1s)
+E deverá ser exibido os dados do produto selecionado
+-> done: AutomationPracticeSteps.EntaoDeveraSerExibidoOsDadosDoProdutoSelecionado() (0,1s)
+Dado que o usuário acesse a aplicação
+-> done: AutomationPracticeSteps.DadoQueOUsuarioAcesseAAplicacao() (14,4s)
+Quando o usuário pesquisar pelo item 'T-shirt'
+-> done: AutomationPracticeSteps.QuandoOUsuarioPesquisarPeloItem("T-shirt") (0,2s)
+Então deverá ser exibido um resultado que contenha o valor informado na pesquisa
+-> done: AutomationPracticeSteps.EntaoDeveraSerExibidoUmResultadoQueContenhaOValorInformadoNaPesquisa() (8,0s)
+-> Using app.config
