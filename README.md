@@ -1,4 +1,4 @@
-# desafio_lemoney
+# Desafio Lemoney(href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.linkedin.com%2Fcompany%2Flemoneyway&psig=AOvVaw3ckj6NqD0iINfufBHL0W_l&ust=1613505375841000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDam5TW7O4CFQAAAAAdAAAAABAD)
 
 [![Build Status](https://travis-ci.org/martins-wescley/desafio_lemoney.svg?branch=main&status=passed)](https://github.com/martins-wescley/desafio_lemoney)
 
@@ -7,11 +7,13 @@ Automatizado a busca por produtos no site http://automationpractice.com/index.ph
 ## Browser Support
 
 ![Chrome](https://cloud.githubusercontent.com/assets/398893/3528328/23bc7bc4-078e-11e4-8752-ba2809bf5cce.png) |
+--- |
 | 88 ✔ |
 
 ## Dependências
 
-| Dependências                    | Versão  |
+| Dependências                    | Versão  | 
+|---------------------------------|---------|
 | Nunit                           | 3.13.1  |
 | NUnit3TestAdapter               | 3.17.0  |
 | Selenium.WebDriver              | 3.141.0 |
